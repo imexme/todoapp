@@ -7,22 +7,21 @@
   margin-right: 50px;
 }
 
-
 .error {
-  border: red 1px solid
+  border: red 1px solid;
 }
 
-.errorMessage {
-  border: red
+.error-message {
+  color: red;
+}
 
+.active-filter {
+  background-color: aquamarine;
 }
 
 .is-done {
   opacity: 0.5;
 }
-
-
-.error:focus {
-  outline: none;
+.button {
+  width: 10px;
 }
-
